@@ -10,6 +10,9 @@ The following dependencies are required to run the script. Install them using th
 
 To install the dependencies, run the following command:
 
+1. Create a virutal environment using the following command: `python -m venv venv`
+2. Activate the virtual environment using the following command: `venv\Scripts\activate`
+3. Install the dependencies using the following command: `pip install -r requirements.txt`
 
 - **Pillow**: A powerful Python library for image processing that provides support for opening, manipulating, and saving many different image file formats.
 
